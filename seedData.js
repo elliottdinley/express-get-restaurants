@@ -26,7 +26,7 @@ const seedMenu = [
   {
     title: 'Dinner'
   },
-]
+];
 
 const seedItem = [
   {
@@ -47,7 +47,7 @@ const seedItem = [
     price: 6.50,
     vegetarian: false
   }
-]
+];
 
 module.exports = {
   seedRestaurant,
